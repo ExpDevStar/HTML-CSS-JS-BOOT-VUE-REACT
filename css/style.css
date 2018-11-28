@@ -1,0 +1,186 @@
+body
+{
+    background-color: #303030;
+    color: #ffffff;
+    font-family: 'Lato', sans-serif;
+}
+
+#container
+{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#logo
+{
+    float: left;
+    width: 600px;
+    font-family: 'Josefin Sans', sans-serif; 
+    font-size: 70px;
+    text-align: left;
+}
+
+#zegar
+{
+    float: left;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 70px;
+    width: 360px;
+    text-align: right;
+}
+
+.rectangle
+{
+    width: 960px;
+    margin: 20px;
+}
+
+.square
+{
+    width: 50%;
+    float: left;
+}
+
+a.tilelink
+{
+    color: #ffffff;
+    text-decoration: none;
+    display: block;
+    width: 230px;
+    height: 142px;
+}
+
+a.linkhtml5
+{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.tile1
+{
+    margin: 10px;
+    float: left;
+    width: 230px;
+    height: 142px;
+    background-color: #3095d3;
+    text-align: center;
+}
+
+.tile1:hover
+{
+    background-color: #2084c2;   
+}
+
+.tile2
+{
+    margin: 10px;
+    float: left;
+    width: 230px;
+    height: 142px;
+    background-color: #666666; 
+    text-align: center;    
+}
+
+.tile2:hover
+{
+    background-color: #555555;   
+}
+
+
+.tile3
+{
+    margin: 10px;
+    float: left;
+    width: 230px;
+    height: 142px;
+    background-color: #93c748; 
+    text-align: center;
+}
+
+.tile3:hover
+{
+    background-color: #82b637;   
+}
+
+
+.tile4
+{
+    margin: 10px;
+    width: 420px;
+    height: 82px;
+    background-color: #ee5a32; 
+    text-align: center;
+    font-size: 26px;
+    padding: 30px;
+    line-height: 150%;
+}
+
+.tile5
+{
+    margin: 10px;
+    width: 420px;
+    height: 244px;
+    background-color: #666666; 
+    text-align: justfy;
+    padding: 30px;
+}
+
+.yt
+{
+    margin: 10px;
+    float: left;
+    width: 105px;
+    height: 142px;
+    background-color: #d94348; 
+}
+
+.yt:hover
+{
+    background-color: #c83237;   
+}
+
+
+.fb
+{
+    margin: 10px;
+    float: left;
+    width: 105px;
+    height: 142px;
+    background-color: #4668b3; 
+}
+
+.fb:hover
+{
+    background-color: #3557a2;   
+}
+
+
+.tw
+{
+    margin: 10px;
+    float: left;
+    width: 105px;
+    height: 142px;
+    background-color: #d95333; 
+}
+
+.tw:hover
+{
+    background-color: #c84222;   
+}
+
+
+.gplus
+{
+    margin: 10px;
+    float: left;
+    width: 105px;
+    height: 142px;
+    background-color: #3095d3; 
+}
+
+.gplus:hover
+{
+    background-color: #2084c2;   
+}
